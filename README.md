@@ -1,2 +1,2 @@
 # Bloxdcraft
-Minibloxd
+Menu toggle is "/"
